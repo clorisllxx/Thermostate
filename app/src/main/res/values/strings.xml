@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Thermostat</string>
+    <string name="contant">HomeThermostat is an app that uses to set rules
+    like Days, Time and Temperature for home, and also you can edit and or delete entries  according to your
+    requirements .</string>
+    <string name="spinner_title">Select Category</string>
+</resources>
